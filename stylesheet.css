@@ -1,0 +1,30 @@
+h1{ font-family: "adobe-garamond-pro", serif;
+    font-weight: 900;
+    font-style: normal;
+    font-size: 37px
+}
+
+.biography{ font-family: "adobe-garamond-pro", serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align: justify ;
+    margin-right: 70%;
+}
+
+h2{ font-family: "adobe-garamond-pro", serif;
+    font-weight: 900;
+    font-style: normal;
+}
+
+.achievments{font-family: "adobe-garamond-pro", serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align: justify ;
+}
+
+footer{ font-family: "adobe-garamond-pro", serif;
+    font-weight: 400;
+    font-style: italic;
+    margin-top: 80px;
+}
+
